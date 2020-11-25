@@ -1,0 +1,8 @@
+{
+  "Hold_Key_Flag": "HOLD",
+  "LAlt_Key_Flag": "LALT",
+  "SC_Url_Extension": "/SC",
+  "SC_Window_Name": "Star Citizen",
+  "Status_Failed": "SC instance not found",
+  "Status_Success": "OK"
+}

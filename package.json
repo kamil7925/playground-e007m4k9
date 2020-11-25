@@ -1,0 +1,15 @@
+{
+  "name": "sc_node",
+  "version": "1.0.0",
+  "description": "SC Gamescreen Node.js Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Milka7925",
+  "license": "ISC",
+  "dependencies": {
+    "autoit": "^1.1.11",
+    "express": "^4.17.1"
+  }
+}
